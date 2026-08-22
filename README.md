@@ -109,4 +109,5 @@ This repository documents conversational behavior under a specified prompting pr
 
 If you use these materials, please cite:
 
-> Profeta, A. S. (2026). *How Long Do Induced Personas Persist? Induction Refusal and Discrete-Time Survival Analysis in Large Language Models.* Digital Minds Research Sprint, Apart Research.
+> Profeta, A. S., & Noda Júnior, C. N. (2026). *How Long Do Induced Personas Persist? Induction Refusal and Discrete-Time Survival Analysis in Large Language Models.* Digital Minds Research Sprint, Apart Research.
+
